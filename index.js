@@ -316,7 +316,7 @@ bot.command('menu', async (ctx) => {
 ┃ ➜ *📌 /pinterest [texto]* - Encuentra inspiración en Pinterest.
 ┃ ➜ *📱 /apkdl [nombre]* - Descarga APKs de aplicaciones populares.
 ┃ ➜ *🌦️ /clima [ciudad]* - Obtén el clima actual de cualquier ciudad.
-┃ ➜ *🌦️ /yts [texto]* - busqueda en Youtube.
+┃ ➜ *🔍 /yts [texto]* - busqueda en Youtube.
 ╰─────────────────╯`;
 
   try {
