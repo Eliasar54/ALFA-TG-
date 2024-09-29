@@ -316,10 +316,11 @@ bot.command('menu', async (ctx) => {
 ┃ ➜ *🖼️ /serchst [texto]* - Busca y comparte stickers increíbles.
 ┃ ➜ *🤖 /ia [pregunta]* - Chatea con nuestra Inteligencia Artificial.
 ┃ ➜ *🎨 /dalle [texto]* - Genera imágenes sorprendentes.
-┃ ➜ *📌 /pinterest [texto]* - Encuentra inspiración en Pinterest.
-┃ ➜ *📱 /apkdl [nombre]* - Descarga APKs de aplicaciones populares.
+┃ ➜ *📌 /pinterest [texto]* - Encuentra inspiración en Pinterest..
+┃ ➜ *📱 /apk [nombre]* - Descarga APKs de aplicaciones populares.
 ┃ ➜ *🌦️ /clima [ciudad]* - Obtén el clima actual de cualquier ciudad.
-┃ ➜ *🔍 /yts [texto]* - busqueda en Youtube.
+┃ ➜ *🔍 /google [busqueda en Google]* - bucar en Google.
+┃ ➜ *🔎 /yts [buscar en Youtube]* - busqueda en Youtube .
 ╰─────────────────╯`;
 
   try {
