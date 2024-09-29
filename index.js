@@ -94,7 +94,7 @@ const iniciarBot = async () => {
 
     // Comando /start
     bot.start((ctx) => {
-        ctx.reply('¡Hola! Soy tu bot de Telegram, listo para ayudarte.');
+        ctx.reply('¡Hola! Soy tu Alfa TG usa /menu.');
     });
 
 bot.command('messi', async (ctx) => {
