@@ -6,6 +6,7 @@ import figlet from 'figlet';
 import axios from 'axios';
 import fs from 'fs';
 import path from 'path';
+const AkiraApi = "EliasarYT";
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
