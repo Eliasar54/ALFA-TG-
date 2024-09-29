@@ -1,3 +1,6 @@
+// Alfa TG © 2024 EliasarYT
+// Si deseas modificar o reutilizar este código, por favor mantén los créditos originales.
+// Este mensaje debe permanecer intacto en todas las versiones modificadas.
 import { Telegraf } from 'telegraf';
 import readline from 'readline';
 import chalk from 'chalk';
