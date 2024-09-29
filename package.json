@@ -1,0 +1,21 @@
+{
+  "name": "alfa-tg-bot",
+  "version": "1.0.0",
+  "description": "Bot de Telegram llamado Alfa TG",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.10.2",
+    "chalk": "^5.2.0",
+    "gradient-string": "^2.0.1",
+    "figlet": "^1.5.2",
+    "axios": "^1.3.4",
+    "util": "^0.12.5",
+    "https": "^1.0.0"
+  },
+  "author": "EliasarYT",
+  "license": "ISC"
+}
