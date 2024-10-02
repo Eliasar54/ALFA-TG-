@@ -59,9 +59,10 @@
 </p>
 
 <p align="center">
-<a href="https://wa.me/50582340051" target="_blank">
-    <img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://t.me/EliasarYT" target="_blank">
+    <img src="https://img.shields.io/badge/Creador-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+</p>
 </p>
 
 # Alfa TG 😎
