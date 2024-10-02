@@ -70,7 +70,13 @@ ALFA TG ES UN BOT DE TELEGRAM CON INTEGRACIÓN
 CON APIS COMO AKIRA API Y api.dorratz
 
 
-# `INSTALACION EN TERMUX`
+## I͓̽N͓̽S͓̽T͓̽A͓̽L͓̽A͓̽C͓̽I͓̽Ó͓̽N͓̽ ͓̽E͓̽N͓̽ ͓̽T͓̽E͓̽R͓̽M͓̽U͓̽X͓̽ ͓̽
+👇 Pasos para instalar el bot via termux 👇
+
+[![blog](https://img.shields.io/badge/Video-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+](https://www.youtube.com/@EliasarYT)
+
+[`💫 Instalar termux clic aqui`](https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file)
 
 
 ```alfa
