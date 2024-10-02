@@ -78,9 +78,12 @@ CON APIS COMO AKIRA API Y api.dorratz
 
 [`💫 Instalar termux clic aqui`](https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file)
 
+```alfa
+termux-setup-storage
+```
 
 ```alfa
-   pkg update && pkg upgrade -y
+pkg update && pkg upgrade -y
 ```
 
 ```alfa
