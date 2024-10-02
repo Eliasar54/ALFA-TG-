@@ -46,11 +46,23 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eliasar54&repo=ALFA-TG-&theme=blueberry" alt="ALFA-TG GitHub Stats"/>
 </a>
 
+
 <p align="center">
   <img src="https://github.com/Eliasar54.png" alt="ELIASAR-YT" width="900"/>
 </p>
 
+### 👑 DUDAS SOBRE EL BOT? CONTACTAME 👑
+<p align="center">
+<a href="https://github.com/Eliasar54" target="_blank">
+    <img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=0088CC&center=true&vCenter=true&lines=Solo+escr%C3%ADbeme+si+tienes+dudas." height="40px">
+</a>
+</p>
 
+<p align="center">
+<a href="https://wa.me/50582340051" target="_blank">
+    <img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+</p>
 
 # Alfa TG 😎
 
