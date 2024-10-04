@@ -1,4 +1,4 @@
-> <b> Versión 1.0 </b>
+ <b> Versión 1.0 </b>
 
 
 <p align="center">
@@ -106,3 +106,6 @@ npm install
 ```alfa
 npm start
 ```
+
+
+<link rel="icon" type="image/x-icon" href="https://eliasaryt-api-v8np.onrender.com/favicon.ico">
