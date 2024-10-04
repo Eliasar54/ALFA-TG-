@@ -74,8 +74,11 @@ CON APIS COMO <a href="https://eliasaryt-api-v8np.onrender.com/" target="_blank"
 <a href="#"><img title="EliasarYT-api" src="https://eliasaryt-api-v8np.onrender.com/favicon.ico" alt="EliasarYT-api Favicon" style="width:100%; max-width:400px;"></a>
 </p>
 
-y
-api.dorratz
+## Y
+<a href="https://api.dorratz.com" target="_blank">api.dorratz</a>
+<p align="center">
+<a href="#"><img title="EliasarYT-api" src="https://api.dorratz.com/dash/img/avatar/avatar-illustrated-02.png" alt="EliasarYT-api Favicon" style="width:100%; max-width:400px;"></a>
+</p>
 
 
 ## I͓̽N͓̽S͓̽T͓̽A͓̽L͓̽A͓̽C͓̽I͓̽Ó͓̽N͓̽ ͓̽E͓̽N͓̽ ͓̽T͓̽E͓̽R͓̽M͓̽U͓̽X͓̽ ͓̽
