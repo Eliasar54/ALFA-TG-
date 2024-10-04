@@ -77,7 +77,7 @@ CON APIS COMO <a href="https://eliasaryt-api-v8np.onrender.com/" target="_blank"
 ## Y
 <a href="https://api.dorratz.com" target="_blank">api.dorratz</a>
 <p align="center">
-<a href="#"><img title="EliasarYT-api" src="https://api.dorratz.com/dash/img/avatar/avatar-illustrated-02.png" alt="EliasarYT-api Favicon" style="width:100%; max-width:400px;"></a>
+<a href="#"><img title="diejo" src="https://api.dorratz.com/dash/img/avatar/avatar-illustrated-02.png" alt="diejo" style="width:100%; max-width:400px;"></a>
 </p>
 
 
