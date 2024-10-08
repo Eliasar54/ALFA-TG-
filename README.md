@@ -68,10 +68,10 @@
 # Alfa TG 😎
 
 ALFA TG ES UN BOT DE TELEGRAM CON INTEGRACIÓN
-CON APIS COMO <a href="https://eliasaryt-api-v8np.onrender.com/" target="_blank">EliasarYT-api</a> 
+CON APIS COMO <a href="https://eliasaryt-api-6r08.onrender.com" target="_blank">EliasarYT-api</a> 
 
 <p align="center">
-<a href="#"><img title="EliasarYT-api" src="https://eliasaryt-api-v8np.onrender.com/favicon.ico" alt="EliasarYT-api Favicon" style="width:100%; max-width:400px;"></a>
+<a href="#"><img title="EliasarYT-api" src="https://eliasaryt-api-6r08.onrender.com/favicon.ico" alt="EliasarYT-api Favicon" style="width:100%; max-width:400px;"></a>
 </p>
 
 ## Y
