@@ -81,7 +81,7 @@ CON APIS COMO <a href="https://eliasaryt-api-6r08.onrender.com" target="_blank">
 </p>
 
 ## <span style="color:red">I͓̽N͓̽S͓̽T͓̽A͓̽L͓̽A͓̽C͓̽I͓̽Ó͓̽N͓̽ ͓̽E͓̽N͓̽</span>
-<img src="https://r72.cooltext.com/rendered/cooltext467948987818041.png" alt="INSTALACIÓN EN TERMUX" width="400"/>
+<a href="#"><img title="INSTALACIÓN EN TERMUX" src="https://r72.cooltext.com/rendered/cooltext467948987818041.png" alt="INSTALACIÓN EN TERMUX" style="width:50%; max-width:300px;"></a>
 <span style="color:red">👇 Pasos para instalar el bot via termux 👇</span>
 
 [![blog](https://img.shields.io/badge/Video-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
