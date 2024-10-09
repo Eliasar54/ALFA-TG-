@@ -3,6 +3,8 @@
 
 <p align="center">
 <a href="#"><img title="ALFA TG" src="https://i.ibb.co/YR4Sx6x/d08a3a19d6b1eaa22cc040ee64b76c31.jpg" alt="ansí-BOT" style="width:100%; max-width:400px;"></a>
+
+ <a href="#"><img title="ALFA TG" src="https://raw.githubusercontent.com/Eliasar54/ALFA-TG-/refs/heads/main/tmpDir/cooltext467957078770225.png" alt="ansí-BOT" style="width:100%; max-width:400px;"></a>
 </p>
 <p align="center">
 <img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=0088CC&center=true&vCenter=true&lines=ALFA+TG%3A+Tu+conexi%C3%B3n+a+lo+mejor+de+Telegram." height="40px">
